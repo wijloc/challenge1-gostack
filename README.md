@@ -1,4 +1,4 @@
-# GoStack-level1-challenge
+# GoStack-challenge
 The purpose of this challenge is apply the knowledge obtained at GoStack level 1.
 
 ## Install
